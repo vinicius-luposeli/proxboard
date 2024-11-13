@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "proxboard",
+    "slug": "proxboard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/imagens/opikode-icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/imagens/opikode-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/imagens/opikode-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
